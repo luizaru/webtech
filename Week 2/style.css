@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+#left{
+    border:1px solid;
+    width:49.8%;
+    height:490px;
+    float:left; 
+
+}
+#right{
+    border:1px solid;
+    width:49.9%;
+    height:490px;
+    float:right;
+}
+
+#left img{
+    width:100%;
+    height:490px;
+}
